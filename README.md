@@ -3,11 +3,12 @@
 ## Plan:
     
 ### How does "War" work?
+```
 - Shuffle cards
 - Divided deck evenly between the two players
 - Each player places top card of divided deck face up
 - Compare cards to see whose card is higher
-- If tie, commence war
+- If tie, commence war:
 ```
 - Each player removes one card (it is held by 'dealer')
 - Each player places one card to see whose card is higher
@@ -15,4 +16,5 @@
 - If tie again, commence war
 - Winner takes all ten cards
 - Continue until winner
+```
 ```
