@@ -14,3 +14,17 @@
   - If tie again, commence war
   - Winner takes all ten cards
   - Continue until winner
+- Game ends when one player has all cards
+
+### How can I recreate "War" in code?
+- Need to store the deck
+  - Will this be a class? Or something else?
+- Need to store the suits
+  - Will this be a class? Will this be part of the deck?
+- Need to create a place to hold cards in play
+  - Maybe this will be a list?
+- Need logic to handle which cards are "higher" and if there is a tie
+  - This also needs to control if there are multiple ties, or any number of ties
+- Need to check after every play whether either player has the entire deck
+
+### Is there more..?
