@@ -2,5 +2,5 @@
 
 ## Plan:
     
-    ### How does "War" work?
-        - idk
+### How does "War" work?
+- idk
