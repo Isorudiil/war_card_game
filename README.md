@@ -28,3 +28,7 @@
 - Need to check after every play whether either player has the entire deck
 
 ### Is there more..?
+
+## Progress:
+
+### Just getting started...
